@@ -24,7 +24,7 @@ This repository contains code and resources for implementing and exploring linea
    ```bash
    
    git clone https://github.com/mazimum86/LinearRegression.git
-   cd linear-regression-project
+   cd LinearRegression
 
 2. Create a virtual environment and activate it:
    
